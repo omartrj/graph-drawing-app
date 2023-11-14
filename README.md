@@ -5,13 +5,13 @@ This Graph Visualization App is a simple Java-based application designed to faci
 ## Features
 
 1. **Graph Generation Tool**:
-  - Random Graph: Generate graphs by specifying the number of nodes and the probability of edges.
-  - Complete Graph: Create complete graphs by specifying the number of nodes.
-  - Regular Graph: Generate regular graphs by specifying the number of nodes and the degree.
-  - Directed/Undirected Graphs: Allow the user to choose between directed or undirected graphs during generation.
+   - Random Graph: Generate graphs by specifying the number of nodes and the probability of edges.
+   - Complete Graph: Create complete graphs by specifying the number of nodes.
+   - Regular Graph: Generate regular graphs by specifying the number of nodes and the degree.
+   - Directed/Undirected Graphs: Allow the user to choose between directed or undirected graphs during generation.
 
 2. **Graph Customization**:
-  - Create and modify nodes/edges individually to form customized graphs according to user preferences.
+   - Create and modify nodes/edges individually to form customized graphs according to user preferences.
 
 3. **Visualization Algorithms**:
    - Tutte's Barycenter Method: Visualization algorithm based on graph barycenters.
