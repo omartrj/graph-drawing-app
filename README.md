@@ -26,17 +26,17 @@ This Graph Visualization App is a simple Java-based application designed to faci
 ## Usage
 
 1. **Graph Generation**:
- a. Access the Graph Generation Tool from the user interface.
- b. Choose the type of graph (random, complete, regular) and specify the necessary parameters.
- c. Select whether the graph should be directed or undirected.
+   - Access the Graph Generation Tool from the user interface.
+   - Choose the type of graph (random, complete, regular) and specify the necessary parameters.
+   - Select whether the graph should be directed or undirected.
 
 2. Custom Graph Creation:
- a. Alternatively, create a custom graph by adding nodes and edges manually.
+   - Alternatively, create a custom graph by adding nodes and edges manually.
 
 3. Visualization:
- - Use the implemented visualization algorithms to visualize the generated or custom graphs.
- - Choose from Tutte's Barycenter, Eade's Spring Embedder, or Fruchterman-Reingold Spring methods.
- - Switch between different graph viewing themes: Classic Light Mode, Dark Mode, or Small Nodes Mode.
+   - Use the implemented visualization algorithms to visualize the generated or custom graphs.
+   - Choose from Tutte's Barycenter, Eade's Spring Embedder, or Fruchterman-Reingold Spring methods.
+   - Switch between different graph viewing themes: Classic Light Mode, Dark Mode, or Small Nodes Mode.
 
 ## Installation
 
