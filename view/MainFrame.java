@@ -12,7 +12,7 @@ public class MainFrame extends JFrame {
     private ControlPanel controlPanel;
 
     public MainFrame() {
-        super("Graph Editor");
+        super("Graph Visualization App");
         setSize(WIDTH, HEIGHT);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
