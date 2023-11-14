@@ -55,3 +55,8 @@ In the future, the following enhancements are planned:
 
 - Implementation of the Magnetic Fields Algorithm for graph visualization.
 - Integration of Sugiyama's Layered Methodology for more diverse graph visualization options.
+
+## Attributions
+
+The icon used for this application is sourced from Flaticon.
+<a href="https://www.flaticon.com/free-icons/line-graph" title="line-graph icons">Line-graph icons created by Kiranshastry - Flaticon</a>
