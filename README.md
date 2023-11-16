@@ -25,6 +25,9 @@ This Graph Visualization App is a simple Java-based application designed to faci
    - Dark Mode: Dark-themed visualization for easier viewing in low-light environments.
    - Small Nodes Mode: A mode that displays nodes in a smaller size for a compact view.
 
+5. **Explore Graphs**:
+   - Explore graphs by zooming in/out and panning across the graph.
+
 ## Usage
 
 1. **Graph Generation**:
