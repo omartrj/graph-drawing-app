@@ -2,7 +2,7 @@
 
 This Graph Visualization App is a simple Java-based application designed to facilitate the creation, manipulation, and visualization of graphs using various generation techniques and visualization algorithms.
 
-![Screenshot of the application](/graph-drawing-app/figures/screenshot.png?raw=true "Screenshot of the application")
+![Screenshot of the application](/figures/screenshot.png?raw=true "Screenshot of the application")
 
 ## Features
 
