@@ -45,7 +45,18 @@ This Graph Visualization App is a simple Java-based application designed to faci
 
 ## Installation
 
-To run the Graph Visualization App locally:
+### Using the JAR file
+
+1. Ensure you have Java installed on your machine. If not, download and install Java from [here](https://www.java.com/download/).
+2. Download the JAR file from [here](/graph-drawing-app.jar).
+3. Open your terminal or command prompt.
+4. Navigate to the directory where the JAR file is located using the `cd` command.
+5. Run the following command to start the application:
+```bash
+java -jar graph-drawing-app.jar
+```
+
+### Building from source
 
 1. Clone this repository.
 2. Open the project in your preferred Java IDE.
@@ -54,7 +65,8 @@ To run the Graph Visualization App locally:
 ## Contribution
 
 Contributions to this project are welcome! If you wish to contribute, feel free to submit a pull request, suggest improvements, or report issues.
-Future Enhancements
+
+## Future Enhancements
 
 In the future, the following enhancements are planned:
 
